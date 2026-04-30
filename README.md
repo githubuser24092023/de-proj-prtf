@@ -1,4 +1,4 @@
-# de-proj-prtf
+# Data Engineering Project with Airflow & Metabase Pipeline
 The project's goal is to show how "Fear and Greed Index" depends on price of BTC.
 
 It is implemented in next steps:
